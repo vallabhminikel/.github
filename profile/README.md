@@ -2,7 +2,7 @@ The [Vallabh/Minikel lab](https://www.vallabhminikel.org/) is a biomedical resea
 
 We believe in open, reproducible science. Here on GitHub, you will find repostiories for each of our publications, usually containing all the raw data and source code needed to reproduce the figures and analyses in the study.
 
-- [`nat_hist_literature_data/`](https://github.com/vallabhminikel/nat_hist_literature_data/): _Aggregation and analysis of 25 years of prion disease natural history extracted from published literature_ ([**Xu 2026**])(https://www.vallabhminikel.org/publications/xu-2026-aggregation-and-analysis.pdf)
+- [`nat_hist_literature_data/`](https://github.com/vallabhminikel/nat_hist_literature_data/): _Aggregation and analysis of 25 years of prion disease natural history extracted from published literature_ ([**Xu 2026**](https://www.vallabhminikel.org/publications/xu-2026-aggregation-and-analysis.pdf))
 - [`divalent`](https://github.com/ericminikel/divalent): _Divalent siRNA for prion disease_ ([**Gentile 2026**](https://www.vallabhminikel.org/publications/gentile-2026-divalent-sirna-for-prion-disease-with-supplement.pdf))
 - [`prp_knockdown_screens`](https://github.com/ericminikel/prp_knockdown_screens): _Phenotypic screening for small molecules that lower PrP in cultured cells_ ([**Frei & Reidenbach 2026**](https://www.vallabhminikel.org/publications/frei-reidenbach-2026-phenotypic-screening-with-supplement.pdf))
 - [`npdpsc_prospective`](https://github.com/ericminikel/npdpsc_prospective): _Mortality of individuals with antemortem genetic testing for PRNP variants in the United States, 1998–2024_ ([**Lian & Kotobelli 2025**](https://www.vallabhminikel.org/publications/lian-kotobelli-2025-mortality-of-individuals-with-supplement.pdf))
