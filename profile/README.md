@@ -4,7 +4,7 @@ We believe in open, reproducible science. Here on GitHub, you will find repostio
 
 - [`nat_hist_literature_data/`](https://github.com/vallabhminikel/nat_hist_literature_data/): _Aggregation and analysis of 25 years of prion disease natural history extracted from published literature_ ([**Xu 2026**](https://www.vallabhminikel.org/publications/xu-2026-aggregation-and-analysis.pdf))
 - [`npdpsc_prospective`](https://github.com/ericminikel/npdpsc_prospective): _Mortality of Individuals With PRNP Variants Associated
-With Prion Disease in the United States, 1998–2024_ ([**Lian & Kotobelli 2026**](lian-kotobelli-2026-mortality-of-individuals-with-prnp-variants-with-supplement.pdf))
+With Prion Disease in the United States, 1998–2024_ ([**Lian & Kotobelli 2026**](https://www.vallabhminikel.org/publications/lian-kotobelli-2026-mortality-of-individuals-with-prnp-variants-with-supplement.pdf))
 - [`divalent`](https://github.com/ericminikel/divalent): _Divalent siRNA for prion disease_ ([**Gentile 2026**](https://www.vallabhminikel.org/publications/gentile-2026-divalent-sirna-for-prion-disease-with-supplement.pdf))
 - [`prp_knockdown_screens`](https://github.com/ericminikel/prp_knockdown_screens): _Phenotypic screening for small molecules that lower PrP in cultured cells_ ([**Frei & Reidenbach 2026**](https://www.vallabhminikel.org/publications/frei-reidenbach-2026-eyh-lcz-with-supplement.pdf))
 - [`halflife`](https://github.com/ericminikel/halflife): _PrP turnover in vivo and the time to effect of prion disease therapeutics_ ([**Corridon 2024**](https://www.vallabhminikel.org/publications/corridon-2026-prp-turnover-in-vivo-with-supplement.pdf))
